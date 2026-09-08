@@ -1,0 +1,15 @@
+{
+  "name": "chrono-reactor-5498",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4173,
+    "createdAt": "2026-09-08T10:56:10.177Z"
+  }
+}
